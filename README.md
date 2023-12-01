@@ -13,6 +13,11 @@
 2. Multilinear Regression
 3. Random Forest Regression
 
+### Environment 
+- Hadoop 3.3
+- Spark 3.5
+- Anaconda Jupyter Notebook
+
 ### 1. Installation Steps 
 1. Simply clone the repository 
 2. In the repo navigate to the code folder, and run the ipynb file.
@@ -33,9 +38,5 @@
 - Navigate to Anaconda navigator and run the jupyter notebook, navigate to your folder with 'code' and run it in the jupyter notebook. Each file has its own **ML algorithms** which are being used to calculate the airtime of the flight.
 <img width="1436" alt="Screenshot 2023-11-30 at 10 06 44 PM" src="https://github.com/Vig-T/BigdataProject/assets/51297736/cb9b8884-3883-498b-a064-894585bc6f9d">
 
-### 4. Environment 
-- Hadoop 3.3
-- Spark 3.5
-- Anaconda Jupyter Notebook
 
 
